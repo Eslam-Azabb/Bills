@@ -3,7 +3,7 @@
 #### The website under improvement ( MOVE THEN IMPROVE )
 ---------------------------------------------------------------------------------
 ## Crud System - Bills 
-. Appliction maded by React Js.
+. Appliction made by React Js.
 
 · Crud System of Bills-System can add bills .
 
